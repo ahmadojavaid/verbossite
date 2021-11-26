@@ -1,0 +1,21 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">team</custom-type>
+    <custom-type translate="1">portfolio</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+    <custom-type translate="1">packages</custom-type>
+    <custom-type translate="1">process</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">portfoliocategories</taxonomy>
+    <taxonomy translate="1">packagescategories</taxonomy>
+  </taxonomies>
+  <admin-texts>
+    <key name="identity">
+      <key name="theme_site_logo_text"/>
+      <key name="footer_text"/>
+      <key name="index_page_title"/>
+      <key name="blank_page_desc"/>
+    </key>
+  </admin-texts>
+</wpml-config>
